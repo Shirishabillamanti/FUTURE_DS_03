@@ -104,3 +104,7 @@ Marketing-Funnel-Analysis/
 ## Conclusion
 
 This project demonstrates practical marketing analytics techniques, conversion analysis, KPI tracking, and business intelligence reporting using Power BI.
+
+created by
+
+shirisha Billamanti
